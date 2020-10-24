@@ -19,8 +19,6 @@ const AppHeader = (props) => {
             </div>
           </div>
         </div>
-        
-        </div>
       </div>
     </header>
   )
